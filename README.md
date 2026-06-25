@@ -29,24 +29,19 @@
 
 <div align="center">
 
-```text
- ┌─────────────────────────────────────────────────────────────┐
- │                                                             │
- │   ┌──(zerotrace㉿kali)-[~/research]                          │
- │   └─$ cat identity.txt                                      │
- │                                                             │
- │     alias    : Zero Trace                                   │
- │     handle   : @zero-trace7                                 │
- │     role     : Cybersecurity Researcher                     │
- │     craft    : Bug Bounty · XSS Research · Web Security     │
- │     contact  : X → @Zero_Dayy7                             │
- │     motto    : "I don't find bugs. I find what was never    │
- │                meant to be found."                          │
- │                                                             │
- │   ┌──(zerotrace㉿kali)-[~/research]                          │
- │   └─$ █                                                     │
- │                                                             │
- └─────────────────────────────────────────────────────────────┘
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║  ┌──(zerotrace㉿kali)-[~/research]                               ║
+║  └─$ cat identity.txt                                           ║
+║                                                                   ║
+║  > alias    : Zero Trace                                          ║
+║  > handle   : @zero-trace7                                        ║
+║  > role     : Cybersecurity Researcher                            ║
+║  > craft    : Bug Bounty · XSS Research · Web Security           ║
+║  > contact  : X → @Zero_Dayy7                                    ║
+║  > motto    : "I don't find bugs. I find what was never meant     ║
+║               to be found."                                       ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -55,7 +50,7 @@
 
 ## <samp>// About Me</samp>
 
-<p align="center"><img width="300" src="./zero-trace-avatar.png" alt="Zero Trace" /></p>
+<p align="center"><img width="450" src="./zero-trace-avatar.png" alt="Zero Trace" /></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=CC0000&vCenter=true&width=520&height=22&lines=A+researcher+who+sees+the+web+differently." />
 
@@ -94,12 +89,21 @@
 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white&labelColor=0d0d0d)
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white&labelColor=0d0d0d)
-![WPScan](https://img.shields.io/badge/WPScan-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0d0d0d)
 ![sqlmap](https://img.shields.io/badge/sqlmap-CC0000?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0d0d0d)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d0d0d)
-![ffuf](https://img.shields.io/badge/ffuf-CC0000?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0d0d0d)
 ![nuclei](https://img.shields.io/badge/nuclei-9333EA?style=for-the-badge&logoColor=white&labelColor=0d0d0d)
+![ffuf](https://img.shields.io/badge/ffuf-CC0000?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0d0d0d)
+![httpx](https://img.shields.io/badge/httpx-FF6B6B?style=for-the-badge&logoColor=white&labelColor=0d0d0d)
+![subfinder](https://img.shields.io/badge/subfinder-2DCCFF?style=for-the-badge&logoColor=white&labelColor=0d0d0d)
+![katana](https://img.shields.io/badge/katana-CC0000?style=for-the-badge&logoColor=white&labelColor=0d0d0d)
+
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0d0d0d)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white&labelColor=0d0d0d)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white&labelColor=0d0d0d)
+![Ghidra](https://img.shields.io/badge/Ghidra-1E90FF?style=for-the-badge&logoColor=white&labelColor=0d0d0d)
+![WPScan](https://img.shields.io/badge/WPScan-21759B?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=0d0d0d)
+![Amass](https://img.shields.io/badge/Amass-5B2C6F?style=for-the-badge&logoColor=white&labelColor=0d0d0d)
+![Nikto](https://img.shields.io/badge/Nikto-0095D9?style=for-the-badge&logoColor=white&labelColor=0d0d0d)
+![Hydra](https://img.shields.io/badge/Hydra-CC0000?style=for-the-badge&logoColor=white&labelColor=0d0d0d)
 
 </div>
 

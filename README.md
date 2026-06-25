@@ -29,19 +29,22 @@
 
 <div align="center">
 
-```text
-┌───────────────────────────────────────────────────────────────────┐
-│  ┌──(zerotrace㉿kali)-[~/research]                                 │
-│  └─# whoami --verbose                                             │
-│                                                                   │
-│  > alias    : Zero Trace                                          │
-│  > handle   : @zero-trace7                                        │
-│  > role     : Cybersecurity Researcher                            │
-│  > craft    : Bug Bounty · XSS Research · Web Security            │
-│  > contact  : X → @Zero_Dayy7                                     │
-│  > motto    : "I don't find bugs. I find what was never meant     │
-│               to be found."                                       │
-└───────────────────────────────────────────────────────────────────┘
+```
+╔═══════════════════════════════════════════════════════════════════╗
+║  ┌──(zerotrace㉿kali)-[~/research]                               ║
+║  └─# whoami --verbose                                            ║
+║                                                                   ║
+║  > alias    : Zero Trace                                          ║
+║  > handle   : @zero-trace7                                        ║
+║  > role     : Cybersecurity Researcher                            ║
+║  > craft    : Bug Bounty · XSS Research · Web Security           ║
+║  > contact  : X → @Zero_Dayy7                                    ║
+║  > motto    : "I don't find bugs. I find what was never meant     ║
+║               to be found."                                       ║
+╚═══════════════════════════════════════════════════════════════════╝
+```
+
+</div>
 
 ---
 
@@ -57,6 +60,7 @@
 
 <br/>
 
+```
 ## <samp>// About Me</samp>
 
 <table>
@@ -81,10 +85,10 @@
   </tr>
 </table>
 
+```
 <p align="left"><sub><i>" The most dangerous vulnerability is the one no one thought to look for. "</i></sub></p>
 
 
-<p align="left"><sub><i>" The most dangerous vulnerability is the one no one thought to look for. "</i></sub></p>
 
 <br clear="right"/>
 

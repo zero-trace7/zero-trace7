@@ -29,22 +29,19 @@
 
 <div align="center">
 
-```
-╔═══════════════════════════════════════════════════════════════════╗
-║  ┌──(zerotrace㉿kali)-[~/research]                               ║
-║  └─# whoami --verbose                                            ║
-║                                                                   ║
-║  > alias    : Zero Trace                                          ║
-║  > handle   : @zero-trace7                                        ║
-║  > role     : Cybersecurity Researcher                            ║
-║  > craft    : Bug Bounty · XSS Research · Web Security           ║
-║  > contact  : X → @Zero_Dayy7                                    ║
-║  > motto    : "I don't find bugs. I find what was never meant     ║
-║               to be found."                                       ║
-╚═══════════════════════════════════════════════════════════════════╝
-```
-
-</div>
+```text
+┌───────────────────────────────────────────────────────────────────┐
+│  ┌──(zerotrace㉿kali)-[~/research]                                 │
+│  └─# whoami --verbose                                             │
+│                                                                   │
+│  > alias    : Zero Trace                                          │
+│  > handle   : @zero-trace7                                        │
+│  > role     : Cybersecurity Researcher                            │
+│  > craft    : Bug Bounty · XSS Research · Web Security            │
+│  > contact  : X → @Zero_Dayy7                                     │
+│  > motto    : "I don't find bugs. I find what was never meant     │
+│               to be found."                                       │
+└───────────────────────────────────────────────────────────────────┘
 
 ---
 
@@ -60,18 +57,32 @@
 
 <br/>
 
-```
-  ┌─────────────────────────────────────────────────────────┐
-  │                                                         │
-  │   🔍  XSS Research     →  Reflected · Stored · DOM     │
-  │   🐛  Bug Bounty       →  Active on major platforms     │
-  │   🌐  Recon            →  Subdomain · JS · Endpoints    │
-  │   🐍  Automation       →  Custom Python tooling         │
-  │   🕷️  Web Pentesting   →  Auth bypass · Logic flaws     │
-  │   📜  Disclosure       →  Responsible reporting         │
-  │                                                         │
-  └─────────────────────────────────────────────────────────┘
-```
+## <samp>// About Me</samp>
+
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=CC0000&vCenter=true&width=450&height=30&lines=A+researcher+who+sees+the+web+differently." /><br/>
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1200&color=888888&vCenter=true&width=450&height=25&lines=I+dig+where+others+scan+%E2%80%94+tracing+logic%2C+breaking+assumptions." /><br/>
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=3500&pause=1200&color=888888&vCenter=true&width=450&height=25&lines=Where+automated+tools+stop%2C+manual+research+begins." />
+      <br/><br/>
+      <code>
+        🔍 XSS Research     → Reflected · Stored · DOM<br/>
+        🐛 Bug Bounty       → Active on major platforms<br/>
+        🌐 Recon            → Subdomain · JS · Endpoints<br/>
+        🐍 Automation       → Custom Python tooling<br/>
+        🕷️ Web Pentesting   → Auth bypass · Logic flaws<br/>
+        📜 Disclosure       → Responsible reporting
+      </code>
+    </td>
+    <td width="40%" align="center">
+      <img src="./zero-trace-avatar.png" width="300" alt="Zero Trace" />
+    </td>
+  </tr>
+</table>
+
+<p align="left"><sub><i>" The most dangerous vulnerability is the one no one thought to look for. "</i></sub></p>
+
 
 <p align="left"><sub><i>" The most dangerous vulnerability is the one no one thought to look for. "</i></sub></p>
 

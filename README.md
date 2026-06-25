@@ -55,7 +55,7 @@
 
 ## <samp>// About Me</samp>
 
-<img align="right" width="300" src="./zero-trace-avatar.png" alt="Zero Trace" />
+<p align="center"><img width="300" src="./zero-trace-avatar.png" alt="Zero Trace" /></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=1000&color=CC0000&vCenter=true&width=520&height=22&lines=A+researcher+who+sees+the+web+differently." />
 
@@ -80,7 +80,7 @@
 
 <p align="left"><sub><i>" The most dangerous vulnerability is the one no one thought to look for. "</i></sub></p>
 
-<br clear="right"/>
+<br/>
 
 ---
 

@@ -31,14 +31,14 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
-║  ┌──(zerotrace㉿kali)-[~/research]                               ║
-║  └─$ cat identity.txt                                           ║
+║  ┌──(zerotrace㉿kali)-[~/research]                                ║
+║  └─$ cat identity.txt                                             ║
 ║                                                                   ║
 ║  > alias    : Zero Trace                                          ║
 ║  > handle   : @zero-trace7                                        ║
 ║  > role     : Cybersecurity Researcher                            ║
-║  > craft    : Bug Bounty · XSS Research · Web Security           ║
-║  > contact  : X → @Zero_Dayy7                                    ║
+║  > craft    : Bug Bounty · XSS Research · Web Security            ║
+║  > contact  : X → @Zero_Dayy7                                     ║
 ║  > motto    : "I don't find bugs. I find what was never meant     ║
 ║               to be found."                                       ║
 ╚═══════════════════════════════════════════════════════════════════╝
@@ -63,7 +63,7 @@
 ```text
   ┌──────────────────────────────────────────────────────────┐
   │                                                          │
-  │   🔍  XSS Research      →  Reflected  Stored ‌· DOM     ‌‌‌‌‌‌‌‌‌ │
+  │   🔍  XSS Research      →  Reflected · Stored ‌· DOM     ‌‌‌‌‌‌‌‌‌ │
   │   🐛 ‌ Bug Bounty        →  Active on major platforms     │
   │   🌐  Recon             →  Subdomain · JS · Endpoints    │
   │   🐍  Automation        →  Custom Python tooling         │

@@ -62,14 +62,14 @@
 
 ```text
   ┌──────────────────────────────────────────────────────────┐
-  │                                                          │
+  │                                                           │
   │   🔍  XSS Research      →  Reflected · Stored · DOM      │
   │   🐛  Bug Bounty        →  Active on major platforms     │
   │   🌐  Recon             →  Subdomain · JS · Endpoints    │
   │   🐍  Automation        →  Custom Python tooling         │
   │   🕷️  Web Pentesting    →  Auth bypass · Logic flaws     │
   │   📜  Disclosure        →  Responsible reporting         │
-  │                                                          │
+  │                                                           │
   └──────────────────────────────────────────────────────────┘
 ```
 

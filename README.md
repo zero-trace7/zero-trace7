@@ -68,7 +68,7 @@
   │   🌐  Recon             →  Subdomain · JS · Endpoints    │
   │   🐍  Automation        →  Custom Python tooling         │
   │   🕷️  Web Pentesting    →  Auth bypass · Logic flaws     │
-  │   📜  Disclosure        →  Responsible reporting         │
+  │   📜  Disclosure        →  Responsible reporting        │
   │                                                          │
   └──────────────────────────────────────────────────────────┘
 ```
